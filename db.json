@@ -1,0 +1,46 @@
+{
+  "lige": [
+    {
+      "id": 2,
+      "naziv": "Viroviticko-podravska"
+    }
+  ],
+  "klubovi": [
+    {
+      "id": 1,
+      "naziv": "NK Mladost Čađavica 1930",
+      "liga_id": 2
+    },
+    {
+      "id": 2,
+      "naziv": "NK Vaška",
+      "liga_id": 2
+    }
+  ],
+  "utakmice": [
+    {
+      "id": 1,
+      "liga_id": 2,
+      "domaci_id": 1,
+      "gosti_id": 2,
+      "domaci_goals": 10,
+      "gosti_goals": 0
+    },
+    {
+      "id": 2,
+      "liga_id": 2,
+      "domaci_id": 2,
+      "gosti_id": 1,
+      "domaci_goals": 1,
+      "gosti_goals": 3
+    },
+    {
+      "id": 3,
+      "liga_id": 2,
+      "domaci_id": 1,
+      "gosti_id": 2,
+      "domaci_goals": 0,
+      "gosti_goals": 3
+    }
+  ]
+}

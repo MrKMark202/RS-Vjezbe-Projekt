@@ -1,0 +1,22 @@
+RS-Football-App/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+│
+└── football/
+    ├── __init__.py
+    ├── ui/
+    │   ├── __init__.py
+    │   └── streamlit_app.py
+    │
+    ├── core/
+    │   ├── __init__.py
+    │   ├── domain.py
+    │   └── services.py
+    │
+    ├── data/
+    │   ├── __init__.py
+    │   └── storage.py
+    │
+    └── config.py
